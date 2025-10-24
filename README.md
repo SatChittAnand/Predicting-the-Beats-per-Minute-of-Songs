@@ -1,4 +1,3 @@
-# Predicting-the-Beats-per-Minute-of-Songs
 # Predicting the Beats Per Minute of Songs
 
 This notebook explores a dataset of song features and aims to predict the beats per minute (BPM) of a song based on these features.
@@ -47,4 +46,4 @@ The following libraries are required to run this notebook:
 - xgboost
 - kagglehub
 
-These dependencies can be installed using pip:
+These dependencies can be installed using ```bash pip    ``` :
