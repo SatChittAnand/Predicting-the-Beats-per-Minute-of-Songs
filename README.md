@@ -3,20 +3,45 @@
 This notebook explores a dataset of song features and aims to predict the beats per minute (BPM) of a song based on these features.
 
 ## Dataset
-
-The dataset used in this notebook is from the Kaggle Playground Series - S5E9 competition. It contains various audio features for a large collection of songs, including:
-
+```
 - RhythmScore
-- AudioLoudness
-- VocalContent
-- AcousticQuality
-- InstrumentalScore
-- LivePerformanceLikelihood
-- MoodScore
-- TrackDurationMs
-- Energy
-- BeatsPerMinute (Target variable)
+```
 
+```
+- AudioLoudness
+```
+
+```
+- VocalContent
+```
+
+```
+- AcousticQuality
+```
+
+```
+- InstrumentalScore
+```
+
+```
+- LivePerformanceLikelihood
+```
+
+```
+- MoodScore
+```
+
+```
+- TrackDurationMs
+```
+
+```
+- Energy
+```
+
+```
+- BeatsPerMinute (Target variable)
+```
 ## Notebook Structure
 
 1.  *Data Loading and Initial Exploration*: The notebook starts by loading the training and testing datasets and performing some initial exploration, including displaying the first few rows of the training data and generating descriptive statistics.
