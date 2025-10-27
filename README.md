@@ -4,43 +4,43 @@ This notebook explores a dataset of song features and aims to predict the beats 
 
 ## Dataset
 ```
-- RhythmScore
+RhythmScore
 ```
 
 ```
-- AudioLoudness
+AudioLoudness
 ```
 
 ```
-- VocalContent
+VocalContent
 ```
 
 ```
-- AcousticQuality
+AcousticQuality
 ```
 
 ```
-- InstrumentalScore
+InstrumentalScore
 ```
 
 ```
-- LivePerformanceLikelihood
+LivePerformanceLikelihood
 ```
 
 ```
-- MoodScore
+MoodScore
 ```
 
 ```
-- TrackDurationMs
+TrackDurationMs
 ```
 
 ```
-- Energy
+Energy
 ```
 
 ```
-- BeatsPerMinute (Target variable)
+BeatsPerMinute (Target variable)
 ```
 ## Notebook Structure
 
